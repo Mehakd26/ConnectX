@@ -48,3 +48,16 @@ cd Connectx
 -  **Mehak:** Created the **Profile Page**, focusing on personalized user data display and interactivity.
 -  **Rishabh Gaur:** Developed the **Events Page**, enabling users to explore, track, and engage with upcoming opportunities.
 -  **Aayush Bhardwaj:** Implemented the **Chatbot** for Assistance, providing real-time support and query resolution for users.
+
+## **🏡 Homepage** ##
+![48a092d6-ff46-424c-9aed-fa7c07c2b9d1](https://github.com/user-attachments/assets/9095ed8e-5949-423a-a077-b60e8d0513ca)
+
+## **👤 Profile Page** ##
+![f8f5a8e6-4e62-4a70-b06a-f1c52acab71a](https://github.com/user-attachments/assets/57c0f048-e3c7-48b7-a12a-31bcab987422)
+
+## **🎉 Events Section** ##
+![ae46de4c-d412-46e5-abe8-96610c5228a1](https://github.com/user-attachments/assets/1547c17f-729c-4c4a-bbab-33d4924d3c48)
+
+## **🤖 Assistant Chatbot** ##
+![17bd23a7-8d38-4a6a-a472-8a1e0ddbea3e](https://github.com/user-attachments/assets/61817749-fb22-4b52-b496-2bfde7695b6d)
+
